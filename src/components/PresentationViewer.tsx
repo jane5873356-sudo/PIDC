@@ -744,7 +744,7 @@ ${tiers
           </button>
 
           <a
-            href="/久揚塑膠_射出零件成本報價簡報_JY-2026-Q084.pptx"
+            href="./久揚塑膠_射出零件成本報價簡報_JY-2026-Q084.pptx"
             download
             className="inline-flex items-center gap-1.5 px-4 py-2.5 bg-slate-800 hover:bg-slate-700 text-slate-200 hover:text-white rounded-xl text-xs font-semibold border border-slate-700 transition-colors cursor-pointer"
             title="下載標準預產範例 PPT 檔案"
