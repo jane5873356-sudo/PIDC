@@ -1,0 +1,6 @@
+{
+  "name": "久揚塑膠｜塑膠射出零件智慧成本報價系統",
+  "description": "專業塑膠射出成型零件成本核算與智慧報價管理系統，標準化材料、成型週期、機台費率、換模調機、後加工與毛利分析，支援完整審核、版本歷程、歷史報價比對與正式報價單輸出。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
